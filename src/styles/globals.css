@@ -21,6 +21,11 @@ a {
   }
   body {
     color: white;
-    background: black;
+    background: #444;
   }
+}
+
+:root {
+  --areaPortaAltura: 310px;
+  --areaPortaLargura: 200px;
 }
